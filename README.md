@@ -45,7 +45,7 @@ Este projeto utiliza a IA Gemini PRO para realizar extração de texto livre de 
    - No Windows:
 
      ```bash
-     conda activate venv
+     conda activate venv/
      ```
 
    - No macOS/Linux:
