@@ -51,7 +51,7 @@ Este projeto utiliza a IA Gemini PRO para realizar extração de texto livre de 
    - No macOS/Linux:
 
      ```bash
-     source activate venv
+     source activate venv/
      ```
 
 5. Instale as dependências:
