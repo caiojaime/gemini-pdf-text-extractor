@@ -60,6 +60,14 @@ Este projeto utiliza a IA Gemini PRO para realizar extração de texto livre de 
    pip install -r requirements.txt
    ```
 
+6. Crie um arquivo `.env` na raiz do projeto com as seguintes informações:
+
+   ```
+   GOOGLE_API_KEY = 'API_KEY'
+   ```
+   
+   Substitua 'API_KEY' pela chave de API do Google Gemini Pro fornecida para seu projeto.
+
 ### Executar o Aplicativo
 
 Para iniciar o aplicativo de interface gráfica com Streamlit, execute o seguinte comando no terminal:
