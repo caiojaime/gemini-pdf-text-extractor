@@ -23,7 +23,7 @@ This project utilizes Gemini PRO AI to perform automated free-text extraction fr
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/gemini-pdf-text-extractor.git
+   git clone https://github.com/caiojaime/gemini-pdf-text-extractor.git
    ```
 
 2. Navigate to the project directory:
