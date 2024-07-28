@@ -1,3 +1,4 @@
+
 # PDF Text Extraction using Gemini PRO
 
 <!-- If you have a logo, place the link here [Gemini PRO Logo](link_to_logo.png)  -->
@@ -83,3 +84,7 @@ In the application interface, you can upload PDF files, ask questions about the 
 ### Contributions
 
 Contributions are welcome! For suggestions, improvements, or fixes, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
